@@ -1,0 +1,33 @@
+0
+31
+org.station.arrivals 0 0
+__consumer_offsets 11 0
+org.station.transformedStations 0 0
+__consumer_offsets 44 0
+org.station.transformedStations 2 0
+__consumer_offsets 23 0
+__consumer_offsets 17 0
+__consumer_offsets 32 0
+org.station.stations 2 0
+events-KSTREAM-AGGREGATE-STATE-STORE-0000000006-changelog 0 0
+__consumer_offsets 26 0
+org.station.stations 0 0
+__consumer_offsets 5 0
+__consumer_offsets 38 0
+stationEvents-KSTREAM-AGGREGATE-STATE-STORE-0000000020-changelog 2 0
+events-KSTREAM-AGGREGATE-STATE-STORE-0000000020-changelog 0 0
+org.station.turnstiles 1 0
+__consumer_offsets 47 0
+turnstileEvents-KSTREAM-AGGREGATE-STATE-STORE-0000000006-changelog 2 0
+__consumer_offsets 14 0
+org.station.transformedStations 1 0
+__consumer_offsets 41 0
+__consumer_offsets 20 0
+org.station.stations 1 0
+__consumer_offsets 29 0
+org.station.weather 0 0
+__consumer_offsets 8 0
+org.station.turnstiles 0 0
+__consumer_offsets 35 0
+__consumer_offsets 2 0
+org.station.turnstiles 2 0
